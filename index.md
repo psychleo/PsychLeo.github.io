@@ -116,7 +116,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 <table border="0">
   <tr>
     <td width="100%">
-     <img src="/WechatGZH.png" width="40%">
+     <img src="/WechatGZH1.png" width="50%">
     </td>
   </tr>
 </table>
