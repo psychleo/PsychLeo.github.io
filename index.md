@@ -42,3 +42,13 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 去人性化
 
 ---
+## 发表论文
+- 张潮,安彦名,刘金蕙,吕一超,&喻丰.(2020).敬畏情绪对创造力的影响：认知灵活性的中介作用.中国社会心理学评论,02,153-176+241.[知网链接](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=GSXL202002011&v=MTgyODkrWnRGeW5tVUx2TklqN1RZckc0SE5ITXJZOUVaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjd1Zlk=）
+
+
+
+
+
+
+
+
