@@ -1,9 +1,16 @@
-## 基本信息 Personal information
-
-姓名：吕一超\
-学历：硕士研究生\
-学校：山西师范大学\
-邮箱：psychleo@163.com
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>l吕一超</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>山西师范大学教育科学学院</b></p>
+      <p><b>邮箱：<psychleo@163.com></b></p>
+    </td>
+    <td width="25%">
+      <img src="/leo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 ## 教育经历 EDUCATION
