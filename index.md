@@ -72,7 +72,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 - 戴西件, **吕一超**, 王永军, 刘碧霞, & 杨阳. (**2021**). 范式注意心理平台(Version 1.0). 中国: 中华人民共和国国家版权局. [2021SR0286356]
   + 注：“范式注意心理平台”原为“心理注意范式平台”。
 
-
+---
 ## 学术经历 ACADEMIC EXPERIENCES
 
 ### 课题项目 Project Research Work
@@ -85,7 +85,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 
 
 
-
+---
 ## 相关推文 BLOG ARTICLES
 
 ### MATLAB+Psychtoolbox 3.0
@@ -112,7 +112,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 - [囚徒困境中的“纳什均衡”](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483909&idx=1&sn=6740173a0631e63f80d5ac143c295670&chksm=fca78162cbd00874c128cca720dfd2da0e38a11135851f1afcd567da82d0e289e69b2a8c92b6&token=595062280&lang=zh_CN#rd)
 - [分不清是爱情，还是“囚徒困境”。](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483883&idx=1&sn=a45d1b242572f57ebc258c52900d72f5&chksm=fca7828ccbd00b9a6dd9c0957b9cca1372eecec5957764822b2b3747ff06ca60c04b340656e9&token=595062280&lang=zh_CN#rd)
 
-
+---
 <table border="0">
   <tr>
     <td width="100%">
