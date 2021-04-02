@@ -112,12 +112,8 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <p><b>微信公众号</b></p>
-      <p><b>PsychLEO</b></p>
-    </td>
-    <td width="50%">
-      <img src="/leo.jpg" width="100%">
+    <td width="100%">
+     <img src="/WechatGZH.png" width="100%">
     </td>
   </tr>
 </table>
