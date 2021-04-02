@@ -84,7 +84,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 - [吕一超. (**2019**). *注意偏向系统(The Attentional Bias System, ABS)*, 失眠脑联盟全国多中心项目启动会, 中国深圳.]
 
 
-<h4 align="right">Update: 04/2021</h4>
+
 
 ## 相关推文 BLOG ARTICLES
 
@@ -100,20 +100,23 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 - [Psychtoolbox中适合中文呈现的字体](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483902&idx=1&sn=41377c6ec0b57fbfd680f50b9a056f9e&chksm=fca78299cbd00b8f34a8ede45f0fec63a88ff86bd60bbd480aaf2ca6b1d4143b2a8fc12ed4a0&token=595062280&lang=zh_CN#rd)
 
 ### jspsych
+
 - [他的jsPsych给我眼，啊，右眼睛，蹭了一下](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247484187&idx=1&sn=2fb99bce4f349ec4d748f14b59fd708b&chksm=fca7807ccbd0096a661b85665e6a04d1356b352fd80a947ec53feef95d7697cf8435282d4846&token=595062280&lang=zh_CN#rd)
 - [诶，我开始玩jspsych了……](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247484179&idx=1&sn=69f48438c01a4eb0ed4cd8fa8b3a2b28&chksm=fca78074cbd009622ca03d57f11b492b90e7c10b78460d54f79c6dfed4453bd13bc24fdbf397&token=595062280&lang=zh_CN#rd)
 
-### 
+### 其他一些文章
+
 - [亲社会行为的实验范式(II)•公平、信任](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483943&idx=1&sn=126c3b3c631579df455a954290937fb9&chksm=fca78140cbd0085657ccad40ed28d24af08d1262b6cf9a8e2da21588db84db831a68c4b681e9&token=595062280&lang=zh_CN#rd)
 - [亲社会行为的实验范式(I)•合作&竞争](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483925&idx=1&sn=4e9cdba3e5d32ca82a9d3b43264e8179&chksm=fca78172cbd008642b662c47e6754973dcdd1c7a3d3c438bdf2f0b5c81e24a8e92832c9d0ad5&token=595062280&lang=zh_CN#rd)
 - [囚徒困境、懦夫博弈、猎鹿博弈三者对比](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483937&idx=1&sn=a5e772e419d6d14dd2f5aabaa67e9153&chksm=fca78146cbd00850e84ff4aa9569f98f080d4736aedc3ddb058ebd1d1abdd7c1097025e6c191&token=595062280&lang=zh_CN#rd)
 - [囚徒困境中的“纳什均衡”](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483909&idx=1&sn=6740173a0631e63f80d5ac143c295670&chksm=fca78162cbd00874c128cca720dfd2da0e38a11135851f1afcd567da82d0e289e69b2a8c92b6&token=595062280&lang=zh_CN#rd)
 - [分不清是爱情，还是“囚徒困境”。](https://mp.weixin.qq.com/s?__biz=MzU2NjgxMDEyMA==&mid=2247483883&idx=1&sn=a45d1b242572f57ebc258c52900d72f5&chksm=fca7828ccbd00b9a6dd9c0957b9cca1372eecec5957764822b2b3747ff06ca60c04b340656e9&token=595062280&lang=zh_CN#rd)
 
+
 <table border="0">
   <tr>
     <td width="100%">
-     <img src="/WechatGZH.png" width="100%">
+     <img src="/WechatGZH.png" width="40%">
     </td>
   </tr>
 </table>
