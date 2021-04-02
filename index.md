@@ -28,7 +28,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 ---
 ## 技能专长 SKILLS & EXPERTISE
 
-### 编程能力
+### 编程能力 Program Skills
 
 - MATLAB
 - JavaScript
@@ -38,7 +38,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 - Mplus
 - Python
 
-### 技术专长
+### 技术专长 Technical Expertise
 
 - 本地心理学实验开发 (基于MATLAB+Psychtoolbox 3.0实现)
   + 注意偏向系统 (Attentional Bias System, ABS)
