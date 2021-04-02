@@ -4,7 +4,7 @@
       <h1>l吕一超</h1>
       <p><b>硕士研究生</b></p>
       <p><b>山西师范大学教育科学学院</b></p>
-      <p><b>邮箱：<psychleo@163.com></b></p>
+      <p><b>邮箱：psychleo@163.com</b></p>
     </td>
     <td width="25%">
       <img src="/leo.jpg" width="100%">
