@@ -48,7 +48,7 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
   + 情绪-决策实验
 
 ---
-## 研究方向
+## 研究方向 RESEARCH INTERESTS
 
 - Awe\
 敬畏
