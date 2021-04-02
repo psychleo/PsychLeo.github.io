@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>l吕一超</h1>
+      <h1>吕一超</h1>
       <p><b>硕士研究生</b></p>
       <p><b>山西师范大学教育科学学院</b></p>
       <a href="mailto:psychleo@163.com">psychleo@163.com</a>
