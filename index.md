@@ -64,8 +64,8 @@ Agricultural Engineering Institute, Shanxi Agricultural University (SXAU)\
 
 ### 发表论文 Article
 
-- 张潮, 安彦名, 刘金蕙, 吕一超, 喻丰.(**2020**). 敬畏情绪对创造力的影响：认知灵活性的中介作用. *中国社会心理学评论*, 02, 153-176+241. [知网链接](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=GSXL202002011&v=MTgyODkrWnRGeW5tVUx2TklqN1RZckc0SE5ITXJZOUVaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjd1Zlk=)
-- Lv, Y., Shi, J., Yu, F., & Zhang, C. (2021). The effect of awe on natural risk-taking preferences: The role of need for closure. Current Psychology. <https://doi.org/10.1007/s12144-021-01758-9>
+- 张潮, 安彦名, 刘金蕙, **吕一超**, 喻丰.(**2020**). 敬畏情绪对创造力的影响：认知灵活性的中介作用. *中国社会心理学评论*, 02, 153-176+241. [知网链接](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=GSXL202002011&v=MTgyODkrWnRGeW5tVUx2TklqN1RZckc0SE5ITXJZOUVaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjd1Zlk=)
+- **Lv, Y.**, Shi, J., Yu, F., & Zhang, C. (**2021**). The effect of awe on natural risk-taking preferences: The role of need for closure. Current Psychology. <https://doi.org/10.1007/s12144-021-01758-9>
 
 ### 软件著作 Computer programs
 - 戴西件, **吕一超**, 王永军, 刘碧霞, & 杨阳. (**2020**). 注意偏向系统 (Version 1.0). 中国: 中华人民共和国国家版权局. [2020SR0240884]
