@@ -15,7 +15,7 @@
 ---
 ## 教育经历 EDUCATION
 
-### · Master Degree Candidate in Social Psychology (2018~present)
+### · Master Degree Candidate in Social Psychology (2018~2021)
 
 School of Education Science, Shanxi Normal University (SXNU)\
 山西师范大学 · 教育科学学院 (硕士在读)
